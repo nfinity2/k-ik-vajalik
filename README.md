@@ -2,6 +2,7 @@
 
 
 !/bin/bash
-https://crontab.guru/
-https://devhints.io/bash
-<sup><sub>Add your tiny text</sub></sup>
+## https://crontab.guru/
+## https://devhints.io/bash
+<sub><sup><sup><sup><sub>[ "$(stat -c '%a' /home/eksam1/eksam1.txt)" != "640" ] && echo "Hoiatus: parandan õigused" && sudo chmod 640 /home/eksam1/eksam1.txt
+</sub></sup></sup></sup></sub>
